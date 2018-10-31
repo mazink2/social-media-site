@@ -1,40 +1,33 @@
 * {
-  box-sizing: border-box;
-}
+  box-sizing: border-box; }
 
 html {
-  font-family: sans-serif;
-}
+  font-family: sans-serif; }
 
 header {
   background: #3b5998;
-  padding: 15px;
-}
+  padding: 15px; }
 
 header a {
   color: #fff;
   text-decoration: none;
   font-size: 14px;
-  font-weight: 300;
-}
+  font-weight: 300; }
 
 header .fas {
   color: #fff;
-  font-size: 16px;
-}
+  font-size: 16px; }
 
 .logo-area {
   color: #fff;
   display: inline-block;
   width: 20%;
-  margin-left: -4px;
-}
+  margin-left: -4px; }
 
 .logo-area a {
   color: #fff;
   text-decoration: none;
-  font-size: 20px;
-}
+  font-size: 20px; }
 
 .menu,
 .menu ul li,
@@ -44,44 +37,36 @@ header .fas {
 .privacy,
 .search-area,
 .search-area ul li {
-  display: inline-block;
-}
+  display: inline-block; }
 
 header .menu {
   width: 20%;
   margin-left: -4px;
   border-right: 1px solid rgba(255, 255, 255, 0.3);
   text-align: right;
-  padding-right: 20px;
-}
+  padding-right: 20px; }
 
 header .menu a {
-  margin-right: 20px;
-}
+  margin-right: 20px; }
 
 header .icon-links {
   width: 20%;
-  margin-left: -4px;
-}
+  margin-left: -4px; }
 
 header .icon-links .quick-options {
   margin-left: -4px;
   padding-left: 20px;
   padding-right: 20px;
-  border-right: 1px solid rgba(255, 255, 255, 0.3);
-}
+  border-right: 1px solid rgba(255, 255, 255, 0.3); }
 
 header .icon-links ul li {
-  margin-left: 5px;
-}
+  margin-left: 5px; }
 
 header .icon-links .privacy {
   margin-left: -4px;
-  padding-left: 20px;
-}
+  padding-left: 20px; }
 
 header .search-area {
   width: 40%;
   margin-left: -4px;
-  text-align: right;
-}
+  text-align: right; }
